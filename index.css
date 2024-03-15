@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Container1 {
+    background-image: url("https://img.freepik.com/premium-vector/podium-shape-show-cosmetic-product-display-christmas-day-new-years-stand-product-showcase-green-background-with-tree-christmas-vector-design_258787-4949.jpg?w=740");
+    background-size: cover;
+    height: 77.5vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.Main-heading {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.description {
+    color: white;
+    font-weight: bold;
+}
+
+.Span-look {
+    color: yellow
+}
+
+
+
+
+
+.list-style {
+    list-style-type: circle;
+    color: white;
+}
+
+.button {
+    background-color: #ECE504;
+    color: black;
+    margin: 5px;
+    font-weight: bold;
+    border-width: 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.img {
+    height: 15px;
+    width: 15px;
+    margin-right: 4px;
+}
+
+.button-2 {
+    color: white;
+    margin: 5px;
+    font-weight: bold;
+    border-width: 0px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: green;
+}
+
+.container-2 {
+    background-color: green;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.Main-heading-2 {
+    color: white;
+    font-weight: bold;
+}
+
+.description-2 {
+    color: black;
+    font-family: "Roboto";
+
+
+}
